@@ -1,0 +1,39 @@
+{
+  "destinations": [
+    {
+      "id": "1",
+      "name": "Cataratas del Iguazú 🌊🌴 ncjsba",
+      "description": "Impresionantes cascadas ubicadas en la frontera entre Argentina y Brasil.",
+      "difficulty": "Fácil",
+      "favorites": 120
+    },
+    {
+      "id": "2",
+      "name": "Monte Everest 🗻❄️",
+      "description": "La montaña más alta del mundo, ubicada en la cordillera del Himalaya.",
+      "difficulty": "Difícil",
+      "favorites": 98
+    },
+    {
+      "id": "3",
+      "name": "Desierto del Sahara 🏜️☀️",
+      "description": "El desierto cálido más grande del mundo, situado en África.",
+      "difficulty": "Moderada",
+      "favorites": 85
+    },
+    {
+      "id": "1732540353961",
+      "name": "vvh",
+      "description": "",
+      "difficulty": "Fácil",
+      "favorites": 0
+    },
+    {
+      "id": "1732540417612",
+      "name": "nuevo",
+      "description": "",
+      "difficulty": "Fácil",
+      "favorites": 0
+    }
+  ]
+}
